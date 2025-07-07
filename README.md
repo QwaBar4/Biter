@@ -5,7 +5,7 @@ Biter is a Python bot that collects user phone numbers through Telegram with one
 ## Features 
 
 - **One-tap phone sharing** - Users approve with a single button
-- **Secure storage** - Saves data to `user_data.txt`
+- **Secure storage** - Saves data to `data.txt`
 - **Real-time console output** - See collected numbers immediately
 
 ## How It Works 
