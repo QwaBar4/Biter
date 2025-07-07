@@ -27,8 +27,8 @@ Biter is a Python bot that collects user phone numbers through Telegram with one
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/telegram-phone-bot.git
-cd telegram-phone-bot
+git clone https://github.com/QwaBar4/Biter.git
+cd Biter
 pip install python-telegram-bot
 ```
 
